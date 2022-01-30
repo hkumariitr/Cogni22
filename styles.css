@@ -150,6 +150,8 @@
 
         }
 
+        
+
         .btn {
             background-color: #19d2a6;
             font-family: 'Noto Sans', sans-serif;
@@ -412,6 +414,17 @@
             body{
                 background-color: #07070a;
             }
+
+            .loginbtn{
+                display: none;
+
+
+            }
+            .reg1btn{
+                display: none;
+
+                }
+
             .logotext{
                 display:none;
                 visibility: hidden;
@@ -482,10 +495,10 @@
                 align-items: center;
             }
 
-            /* .register{
+            .register{
                 justify-content: center;
                 
-            } */
+            }
 
             .pnt{
                 line-height: 100%;
@@ -507,3 +520,4 @@
                 box-sizing: border-box;
                 text-align: center;
             }
+        }
