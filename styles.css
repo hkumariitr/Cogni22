@@ -520,4 +520,9 @@
                 box-sizing: border-box;
                 text-align: center;
             }
+
+            .logo img{
+                justify-content: center;
+                align-items: center;
+            }
         }
