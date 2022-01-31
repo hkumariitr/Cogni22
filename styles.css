@@ -477,11 +477,11 @@
             }
             .perksmain{
 
-            grid-template-columns: repeat(auto-fit, minmax(40vw, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(50vw, 1fr));
             }
 
             .perksitem{
-                width: 40vw;
+                width: 50vw;
                 padding:20vw;
             }
             .perkshead{
